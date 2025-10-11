@@ -10,7 +10,7 @@ from langchain_community.vectorstores import FAISS
 from langchain.schema import Document
 from langchain_community.document_loaders import PyPDFLoader
 from langchain_huggingface import HuggingFaceEmbeddings
-
+#
 from itertools import chain
 from final_img_pros import processing
 
