@@ -103,8 +103,6 @@ Controlled access through QR code sessions
 
 HIPAA compliant data handling practices
 
-Regular security audits and updates
-
 🌟 **Why Choose MEDPASS?**
 MEDPASS helps eliminate the frustrations of lost or outdated records, ensuring that individuals receive timely and informed care, wherever they are. Ultimately, this system is about putting health management back in the hands of the patient while improving the healthcare experience for everyone involved.
 
